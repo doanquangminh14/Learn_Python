@@ -1,3 +1,2 @@
-x = 6
-y = x.isdigit()
-print(y)
+a = 6
+a.isdigit()
