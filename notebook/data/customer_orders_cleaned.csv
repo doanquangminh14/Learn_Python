@@ -1,0 +1,19 @@
+order_id,customer_name,age,email,phone,city,order_date,product_category,price,quantity,discount_rate,payment_status,total_amount,order_year,order_month,order_day_name,is_weekend
+ORD-1001,Nguyen Van A,28,nguyenvana@gmail.com,0901234567,Ha Noi,2023-01-15 00:00:00,Electronics,200.5,1,0.1,PAID,180.45,2023,1,Sunday,1
+ORD-1002,Tran Thi B,34,tran.b@hotmail.com,0912345678,Ha Noi,2023-01-15 00:00:00,Clothing,0.0,2,0.0,PAID,0.0,2023,1,Sunday,1
+ORD-1003,Le Van C,32,levanc@yahoo.com,0987654321,Ho Chi Minh,2023-01-16 00:00:00,Home & Kitchen,85.5,3,0.05,PENDING,243.68,2023,1,Monday,0
+ORD-1004,Pham Thi D,32,phamthid@gmail.com,0933112233,Da Nang,2023-01-17 14:30:00,Electronics,450.0,1,0.15,PAID,382.5,2023,1,Tuesday,0
+ORD-1005,Hoang Van E,45,,Unknown,Hai Phong,2023-01-18 00:00:00,Books,0.99,2,0.0,REFUNDED,1.98,2023,1,Wednesday,0
+ORD-1006,Nguyen Thi F,22,nguyenf@gmail.com,84905123456,Can Tho,2023-01-19 00:00:00,Beauty,0.0,2,0.0,PAID,0.0,2023,1,Thursday,0
+ORD-1007,Doan Quang Minh,25,minh.doan@tech.io,0908889999,Ha Noi,2023-01-20 00:00:00,Electronics,0.9,1,0.2,PAID,0.72,2023,1,Friday,0
+ORD-1008,Vu Thi G,19,vug@gmail.com,0909090909,Ho Chi Minh,2023-01-20 00:00:00,Clothing,0.0,1,0.0,UNPAID,0.0,2023,1,Friday,0
+ORD-1009,Bui Van H,32,buih@domain.com,0977665544,Da Nang,2023-01-20 00:00:00,Home & Kitchen,0.0,4,0.05,PAID,0.0,2023,1,Friday,0
+ORD-1010,Ngo Thi I,31,ngoi@gmail.com,0911223344,Ha Noi,2023-01-22 00:00:00,Electronics,150.0,2,0.1,PAID,270.0,2023,1,Sunday,1
+ORD-1011,Dang Van K,40,dangk@gmail.com,0922334455,Hue,2023-01-23 00:00:00,Beauty,0.0,1,0.0,PAID,0.0,2023,1,Monday,0
+ORD-1012,Nguyen Thi L,29,nguyenl@gmail.com,Unknown,Da Nang,2023-01-24 00:00:00,Clothing,0.0,2,0.05,CANCELLED,0.0,2023,1,Tuesday,0
+ORD-1013,Tran Van M,52,tranm@gmail.com,0944556677,Ho Chi Minh,2023-01-25 00:00:00,Books,0.9,3,0.0,PAID,2.7,2023,1,Wednesday,0
+ORD-1014,Hoang Thi N,32,hoangn@gmail.com,0955667788,Other,2023-01-26 00:00:00,Electronics,0.0,1,0.1,PENDING,0.0,2023,1,Thursday,0
+ORD-1015,Do Van P,33,dovp@yahoo.com,0966778899,Hai Phong,2023-01-27 00:00:00,Home & Kitchen,0.0,2,0.15,PAID,0.0,2023,1,Friday,0
+ORD-1016,Vu Van Q,38,vuq@gmail.com,0977889900,Quang Ninh,2023-01-28 00:00:00,Clothing,0.0,2,0.0,PAID,0.0,2023,1,Saturday,1
+ORD-1017,Bui Thi R,27,buir@gmail.com,0988990011,Can Tho,2023-01-29 00:00:00,Electronics,850.0,1,0.25,PAID,637.5,2023,1,Sunday,1
+ORD-1018,Dinh Van S,48,dinhs@gmail.com,0999001122,Nha Trang,2023-01-30 00:00:00,Beauty,0.0,2,0.05,PAID,0.0,2023,1,Monday,0
