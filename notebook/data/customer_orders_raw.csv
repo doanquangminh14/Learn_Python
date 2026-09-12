@@ -1,0 +1,21 @@
+order_id,customer_name,age,email,phone,city,order_date,product_category,price,quantity,discount_rate,payment_status
+ORD-1001,Nguyen Van A,28,nguyenvana@gmail.com,0901234567,Ha Noi,2023-01-15,Electronics,",200.50",1,10%,PAID
+ORD-1001,Nguyen Van A,28,nguyenvana@gmail.com,0901234567,Ha Noi,2023-01-15,Electronics,",200.50",1,10%,PAID
+ORD-1002,Tran Thi B,34,TRAN.B@HOTMAIL.COM,0912345678,ha noi ,15/01/2023,clothing,.00,2,0%,paid
+ORD-1003,  Le Van C  ,N/A,levanc@yahoo.com,987654321,Ho Chi Minh,2023.01.16,Home & Kitchen,85.5,3,5%,PENDING
+ORD-1004,Pham Thi D,-5,phamthid@gmail.com,0933112233,Da Nang,2023-01-17 14:30:00,Electronics,",450.00",1,15%,PAID
+ORD-1005,Hoang Van E,45,hoangve@company,NaN,Hai Phong,2023/01/18,Books,.99,1000,0%,REFUNDED
+ORD-1006,Nguyen Thi F,22,nguyenf@gmail.com,+84 905 123 456,Cần Thơ,2023-01-19,Beauty,.00,2,None,PAID
+ORD-1007,Doan Quang Minh,25,minh.doan@tech.io,0908889999,HA NOI,2023-01-20,Electronics,.90,1,20%,PAID
+ORD-1008,Vu Thi G,19,vug@gmail.com,0909090909,hcm,2023-01-20,Clothing,invalid_price,1,0%,UNPAID
+ORD-1009,Bui Van H,250,buih@domain.com,0977665544,Da Nang,invalid_date,Home & Kitchen,.00,4,5%,PAID
+ORD-1010,Ngo Thi I,31,ngoi@gmail.com,0911223344,Hà Nội,2023-01-22,Electronics,",150.00",2,10%,PAID
+ORD-1010,Ngo Thi I,31,ngoi@gmail.com,0911223344,Hà Nội,2023-01-22,Electronics,",150.00",2,10%,PAID
+ORD-1011,Dang Van K,40,dangk@gmail.com,0922334455,Hue,2023-01-23,Beauty,.00,1,?,PAID
+ORD-1012,Nguyen Thi L,29,nguyenl@gmail.com,null,  da nang  ,2023-01-24,Clothing,.00,2,5%,CANCELLED
+ORD-1013,Tran Van M,52,tranm@gmail.com,0944556677,Ho Chi Minh,2023-01-25,Books,.90,3,0%,PAID
+ORD-1014,Hoang Thi N,,hoangn@gmail.com,0955667788,-,2023-01-26,Electronics,.00,1,10%,PENDING
+ORD-1015,Do Van P,33,dovp@yahoo.com,0966778899,Hai Phong,2023-01-27,Home & Kitchen,.00,2,15%,PAID
+ORD-1016,Vu Van Q,38,vuq@gmail.com,0977889900,Quang Ninh,2023-01-28,Clothing,.00,-1,0%,PAID
+ORD-1017,Bui Thi R,27,buir@gmail.com,0988990011,Can Tho,2023-01-29,Electronics,",850.00",1,25%,PAID
+ORD-1018,Dinh Van S,48,dinhs@gmail.com,0999001122,Nha Trang,2023-01-30,Beauty,.00,2,5%,PAID
